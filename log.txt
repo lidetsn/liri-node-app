@@ -1,0 +1,53 @@
+movie-this	HIGH SCHOOL MUSICAL
+
+Title of the movie             | High School Musical                                                             
+Release Year                   | 2006                                                                            
+IMDB Rating of the movie       | 5.3                                                                             
+Rotten Tomatoes Rating         | 56%                                                                             
+Country                        | USA                                                                             
+Language                       | English, Spanish                                                                
+Plot                           | A popular high school athlete and an academically gifted girl get roles in the  
+                               | school musical and develop a friendship that threatens East High's social order.
+Actors                         | Zac Efron, Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel                       
+-----------------------------------------------------------------------------------------------------------------
+concert-this	WHITE PANDA
+
+Event Number              | 1                              
+Venue Name                | Strings Music Pavilion         
+Venue Location            | Steamboat Springs United States
+Date Of The event         | 12/27/2018                     
+-----------------------------------------------------------------------------------------------------------------
+concert-this	WHITE PANDA
+
+Event Number              | 2                        
+Venue Name                | Bottle & Cork            
+Venue Location            | Dewey Beach United States
+Date Of The event         | 01/10/2019               
+-----------------------------------------------------------------------------------------------------------------
+spotify-this-song	I WANT IT THAT WAY
+
+Song Name                 | I WANT IT THAT WAY                                                                                         
+Album Name                | The Hits--Chapter One                                                                                      
+Artist Name               | Backstreet Boys                                                                                            
+preview url:              | https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=dbdda22c555b47d3a925b9f5e6a4a538
+-----------------------------------------------------------------------------------------------------------------
+spotify-this-song	I WILL ALWAYS LOVE YOU
+
+Song Name                 | I WILL ALWAYS LOVE YOU                                                                                     
+Album Name                | The Bodyguard - Original Soundtrack Album                                                                  
+Artist Name               | Whitney Houston                                                                                            
+preview url:              | https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=dbdda22c555b47d3a925b9f5e6a4a538
+-----------------------------------------------------------------------------------------------------------------
+movie-this	KNIGHT
+
+Title of the movie             | The Dark Knight                                                                
+Release Year                   | 2008                                                                           
+IMDB Rating of the movie       | 9.0                                                                            
+Rotten Tomatoes Rating         | 94%                                                                            
+Country                        | USA, UK                                                                        
+Language                       | English, Mandarin                                                              
+Plot                           | When the menace known as the Joker emerges from his mysterious past, he wreaks 
+                               | havoc and chaos on the people of Gotham. The Dark Knight must accept one of the
+                               | greatest psychological and physical tests of his ability to fight injustice.   
+Actors                         | Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine                     
+-----------------------------------------------------------------------------------------------------------------
